@@ -1,0 +1,1 @@
+select trim(name) from people;

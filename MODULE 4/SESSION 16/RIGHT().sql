@@ -1,0 +1,1 @@
+select right(role, 3) from employee ;

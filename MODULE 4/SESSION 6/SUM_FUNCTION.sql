@@ -1,0 +1,1 @@
+select SUM(password) FROM students

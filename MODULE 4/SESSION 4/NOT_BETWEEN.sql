@@ -1,0 +1,3 @@
+SELECT * FROM students
+WHERE id
+NOT BETWEEN 2 AND 4;

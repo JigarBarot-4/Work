@@ -1,0 +1,1 @@
+select replace(name,"a","z") from students;

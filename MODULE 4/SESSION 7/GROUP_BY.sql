@@ -1,0 +1,2 @@
+SELECT name,id FROM STUDENTS
+GROUP BY name,id;

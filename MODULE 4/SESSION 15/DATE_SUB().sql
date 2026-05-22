@@ -1,0 +1,1 @@
+select date_sub('2026-03-31', INTERVAL 1 MONTH);

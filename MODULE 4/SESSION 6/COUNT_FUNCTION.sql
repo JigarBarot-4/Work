@@ -1,0 +1,2 @@
+use practice;
+SELECT COUNT(NAME) FROM STUDENTS;

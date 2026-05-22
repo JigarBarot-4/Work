@@ -1,0 +1,1 @@
+SELECT distinct id FROM students;

@@ -1,0 +1,1 @@
+SELECT MAX(password) FROM students;
